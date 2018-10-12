@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-12T00:54:50Z" name="Suite" finished-at="2018-10-12T00:54:50Z" duration-ms="262">
+    <groups>
+    </groups>
+    <test started-at="2018-10-12T00:54:50Z" name="Test" finished-at="2018-10-12T00:54:50Z" duration-ms="262">
+      <class name="com.vtiger.login.MavenDemo1">
+        <test-method signature="add()[pri:0, instance:com.vtiger.login.MavenDemo1@445b295b]" started-at="2018-10-12T00:54:50Z" name="add" finished-at="2018-10-12T00:54:50Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="mul()[pri:0, instance:com.vtiger.login.MavenDemo1@445b295b]" started-at="2018-10-12T00:54:50Z" name="mul" finished-at="2018-10-12T00:54:50Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.vtiger.login.MavenDemo1@445b295b]" started-at="2018-10-12T00:54:50Z" name="sub" finished-at="2018-10-12T00:54:50Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.vtiger.login.MavenDemo1 -->
+      <class name="com.vtiger.login.MavenDemo2">
+        <test-method signature="add()[pri:0, instance:com.vtiger.login.MavenDemo2@1757cd72]" started-at="2018-10-12T00:54:50Z" name="add" finished-at="2018-10-12T00:54:50Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="mul()[pri:0, instance:com.vtiger.login.MavenDemo2@1757cd72]" started-at="2018-10-12T00:54:50Z" name="mul" finished-at="2018-10-12T00:54:50Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.vtiger.login.MavenDemo2@1757cd72]" started-at="2018-10-12T00:54:50Z" name="sub" finished-at="2018-10-12T00:54:50Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.vtiger.login.MavenDemo2 -->
+      <class name="com.vtiger.login.MavenDemo">
+        <test-method signature="add()[pri:0, instance:com.vtiger.login.MavenDemo@49e5f737]" started-at="2018-10-12T00:54:50Z" name="add" finished-at="2018-10-12T00:54:50Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="mul()[pri:0, instance:com.vtiger.login.MavenDemo@49e5f737]" started-at="2018-10-12T00:54:50Z" name="mul" finished-at="2018-10-12T00:54:50Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method signature="sub()[pri:0, instance:com.vtiger.login.MavenDemo@49e5f737]" started-at="2018-10-12T00:54:50Z" name="sub" finished-at="2018-10-12T00:54:50Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.vtiger.login.MavenDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
