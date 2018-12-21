@@ -9,5 +9,10 @@ public class CheckGit {
 	public void print() {
 		System.out.println("hi second commit");
 	}
+	
+	@Test 
+	public void print1() {
+		System.out.println("hi third commite");
+	}
 
 }
